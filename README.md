@@ -14,6 +14,7 @@ In the pursuit of applying the practical knowledge acquired from the "AGIR" cour
 
 To understand better what we did, you can look at the mockup here :
 https://www.figma.com/proto/j4R51Td64BZLwUGOxrG22b/Wireframe?type=design&node-id=165-971&t=Wv2S3ZSnfZGExtDc-0&scaling=scale-down&page-id=24%3A191
+![Mockups_app](./images/Mockups_Ecoexya.png)
 
 The transition to the "SMART" course represents a pivotal moment in our academic and professional development. It offers us the opportunity to transform our designs into a fully functional application, utilizing React, TypeScript, and MongoDB. This documentation is crafted to outline our project’s goals, the rationale behind our technology choices, and the step-by-step plan we intend to follow to achieve a seamless transition from design to development. By presenting this project, we seek approval and guidance from our professors to ensure its successful completion, demonstrating a practical application of our skills in a real-world setting.
 
