@@ -10,7 +10,10 @@ Students: **Yanice BOADY, Antoine VRAUX, Léo AIMONETTO, Mathéo LINNE, Maxime B
 
 ## Description 
 
-In the pursuit of applying the practical knowledge acquired from the "AGIR" course, our team has embarked on an ambitious project in collaboration with Coexya, aiming to develop an application that fosters employee engagement in Corporate Social Responsibility (CSR) challenges. Having successfully completed the user interface and user experience designs, which focused on simplicity, ergonomics, and responsive design, we are poised to take this project to the next development phase.
+In the pursuit of applying the practical knowledge acquired from the "AGIR" course, our team has embarked on an ambitious project in collaboration with Coexya, aiming to design an application that fosters employee engagement in Corporate Social Responsibility (CSR) challenges. Having successfully completed the user interface, focusing on simplicity, ergonomics, and responsive design, we are ready to take this project to the next development phase.
+
+To understand better what we did, you can look at the mockup here :
+https://www.figma.com/proto/j4R51Td64BZLwUGOxrG22b/Wireframe?type=design&node-id=165-971&t=Wv2S3ZSnfZGExtDc-0&scaling=scale-down&page-id=24%3A191
 
 The transition to the "SMART" course represents a pivotal moment in our academic and professional development. It offers us the opportunity to transform our designs into a fully functional application, utilizing React, TypeScript, and MongoDB. This documentation is crafted to outline our project’s goals, the rationale behind our technology choices, and the step-by-step plan we intend to follow to achieve a seamless transition from design to development. By presenting this project, we seek approval and guidance from our professors to ensure its successful completion, demonstrating a practical application of our skills in a real-world setting.
 
@@ -49,13 +52,6 @@ These requirements are designed to ensure the application is not only a valuable
 
 Regarding the materials and resources required for this project, our strategy focuses on leveraging open-source tools and the existing IT infrastructure of Coexya to minimize costs while maximizing efficiency and effectiveness. For the development environment, we plan to use React and TypeScript, which are open-source and supported by a robust community. MongoDB, chosen for its scalability and flexibility, also offers a free tier that can serve our initial development needs. For AI functionalities, we will explore open-source AI libraries and frameworks that can assist in challenge generation. Cloud hosting and deployment can be managed through Coexya's existing cloud infrastructure, ensuring seamless integration and deployment. This approach ensures that we are well-equipped with the necessary tools and platforms, all of which are accessible either for free or through Coexya's current system infrastructure, allowing us to allocate our resources and focus more on development and innovation.
 
-## Note for Students
 
-* Clone the created repository offline;
-* Add your name and surname into the Readme file and your teammates as collaborators
-* Complete the field above after project is approved
-* Make any changes to your repository according to the specific assignment;
-* Ensure code reproducibility and instructions on how to replicate the results;
-* Add an open-source license, e.g., Apache 2.0;
-* README is automatically converted into pdf
 
+Thanks for reading, we hope this app will become real one day !
